@@ -9,15 +9,11 @@ To start using this server follow these steps:
 3) Type 'npm install' to install all dependencies.
 4) Type 'sails lift' to start the server. 
 
-+ a [Sails v1](https://sailsjs.com) application
 
 ### Links
-
++ a [Sails v1](https://sailsjs.com) application
 + [Sails framework documentation](https://sailsjs.com/get-started)
-+ [Version notes / upgrading](https://sailsjs.com/documentation/upgrading)
-+ [Deployment tips](https://sailsjs.com/documentation/concepts/deployment)
-+ [Community support options](https://sailsjs.com/support)
-+ [Professional / enterprise options](https://sailsjs.com/enterprise)
+
 
 
 ### Version info
