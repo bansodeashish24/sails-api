@@ -1,7 +1,15 @@
-# api-server-9-3-19
+# REST APIs using Sails.js
+Welcome to this super cool starter project to get you on track with creating your own REST APIs using Sails.js.
 
-a [Sails v1](https://sailsjs.com) application
+Prerequisites: Make sure you have Node.js version 8 and above installed on you machine. If not then go ahead and download it from https://nodejs.org/en/download/ 
 
+To start using this server follow these steps:
+1) Download or clone this repository onto your local machine.
+2) Open a terminal (linux/mac) or a command prompt (windows) and navigate into this project's main folder (use cd command).
+3) Type 'npm install' to install all dependencies.
+4) Type 'sails lift' to start the server. 
+
++ a [Sails v1](https://sailsjs.com) application
 
 ### Links
 
